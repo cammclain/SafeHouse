@@ -1,6 +1,3 @@
-Here is a cleaned-up and modular version of your self-hosted smart home project draft. This version is organized to allow for easy additions and modifications:
-
----
 
 # SafeHouse: Offline-First Smart Home
 
