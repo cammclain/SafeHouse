@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "321b38019a0417c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/UX/Voice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4360c22c25a5b81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/UX/Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a882e252343d8ccf",
@@ -146,9 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76c6bbbd71fb6dda",
+  "active": "abb577b4932b8ee8",
   "lastOpenFiles": [
+    "docs/UX/Voice.md",
+    "README.md",
+    "docs/UX/Voice Commands.md",
+    "docs/UX",
+    "docs/UX/Dashboard.md",
     "static/8.webp",
+    "docs",
     "static"
   ]
 }
