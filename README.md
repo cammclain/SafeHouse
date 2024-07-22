@@ -7,19 +7,60 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [UI/UX Design](#uiux-design)
-3. [Features](#features)
-4. [Software](#software)
-5. [Hardware](#hardware)
+- [SafeHouse: Offline-First Smart Home](#safehouse-offline-first-smart-home)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+    - [Pursuing User Privacy](#pursuing-user-privacy)
+    - [Transparency \& Disclaimer](#transparency--disclaimer)
+      - [Data Obfuscation \& Minimization](#data-obfuscation--minimization)
+  - [Closing / Review of Concepts / Conclusion](#closing--review-of-concepts--conclusion)
+  - [UI/UX Design](#uiux-design)
+  - [Features](#features)
+  - [Software](#software)
+  - [Hardware](#hardware)
     - [Single Board Computer](#single-board-computer)
     - [Laptops for AI Servers](#laptops-for-ai-servers)
+  - [Additional Sections](#additional-sections)
+    - [Installation and Setup](#installation-and-setup)
+    - [Security Measures](#security-measures)
+    - [Future Enhancements](#future-enhancements)
 
 ---
 
 ## Introduction
 
-**SafeHouse** is an offline-first smart home system that prioritizes user privacy. It offers a comprehensive set of features and interfaces designed to provide a seamless and secure smart home experience.
+`SafeHouse` is an `offline-first` `smart home` & `IoT Platform` system that **aggressively prioritizes** `user privacy`. 
+
+### Pursuing User Privacy
+
+In a world where smart home devices are increasingly connected to the cloud, `SafeHouse` takes a different approach. By keeping all data and processing within the `home network`.
+
+`SafeHouse` makes *extensive* & **aggressive** efforts to **minimize** the amount of user data that is revealed to `3rd Party Services`, `Platforms`, & `organizations` of a *wide variety*. 
+
+
+### Transparency & Disclaimer
+The overall goal of `SafeHouse` is to **MINIMIZE** the amount of `data` that is shared with `third parties`.
+This is because if you are using a smart home system, you are likely to be sharing a lot of data with `third parties` already.
+If your are putting your actual `safety` and `security` in the hands of a """private""" `smart home system`... LOL
+
+
+`SafeHouse` is designed to be **transparent** about the fact that it is inevitable some `data` from this platform will leak & that data will be shared with `3rd parties`. We try generally try to minimize this, & obfuscate the data that is shared, but it is impossible to eliminate it entirely.
+
+#### Data Obfuscation & Minimization
+ We make efforts to **minimize** the amount of worthwhile & valuable data these `3rd parties` can `extract` by
+- **Keeping data local** (within the home network)
+- **Storing & Spreading Decoy Data** (to confuse `3rd parties` about what data is relevant, making building an overall advertising profile on you more difficult, and your data less valuable!)
+  - false identity with fake identity generation
+
+**Why do I have to share data with 3rd parties?**
+the `reasons` for sharing that `data` are that you simply must make requests to the internet if you want to have `real time` & **actually relevant** `data` & `information` for your smart home. 
+
+
+
+
+## Closing / Review of Concepts / Conclusion
+
+`SafeHouse` offers a comprehensive set of features and interfaces designed to provide a seamless and secure smart home experience.
 
 ---
 
